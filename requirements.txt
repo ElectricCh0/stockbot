@@ -1,6 +1,6 @@
 python-telegram-bot
 yfinance
-google-generativeai
+google-genai
 matplotlib
 pandas
 flask
