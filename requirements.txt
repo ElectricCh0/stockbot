@@ -3,5 +3,5 @@ yfinance
 google-generativeai
 matplotlib
 pandas
-numpy
 flask
+mplfinance
